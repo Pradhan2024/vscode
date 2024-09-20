@@ -1,0 +1,11 @@
+#head {
+    font-style: oblique;
+    font-weight: bold;
+    color: black;
+    font-size: 35px;
+}
+.Image{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-right: 30 px;
+}
